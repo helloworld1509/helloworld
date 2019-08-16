@@ -1,6 +1,6 @@
 使用root用户登录，运行以下命令：
 
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+wget --no-check-certificate -O shadowsocks-all.sh https://github.com/helloworld1509/helloworld/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 
@@ -16,7 +16,6 @@ Your QR Code: (For Shadowsocks Windows, OSX, Android and iOS clients)
 Your QR Code has been saved as a PNG file path:
  your_path.png
 
-Welcome to visit:https://teddysun.com/486.html
 Enjoy it!
 
 
